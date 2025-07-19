@@ -5,6 +5,7 @@
 int main(int argc, char **argv) {
     // TODO: 补全变量定义并打印加法运算
     // x ?
+    float x = 2025.0720; // 定义变量 x 并赋值为 42
     std::cout << x << " + " << x << " = " << x + x << std::endl;
     return 0;
 }
